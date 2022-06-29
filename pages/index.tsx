@@ -11,6 +11,9 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h2>Git Flow Example</h2>
+        <ul>
+          <li>Add feature 1</li>
+        </ul>
       </main>
     </div>
   );
