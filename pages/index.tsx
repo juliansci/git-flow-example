@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h2>Git Flow Example - With Hotfix</h2>
         <ul>
-          <li>Add feature 1</li>
+          <li>Add feature 10</li>
         </ul>
       </main>
     </div>
